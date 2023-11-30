@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "3_Swap.C": "c",
+        "4_Salary.C": "c",
+        "5_Leap_Year.C": "cpp",
+        "8_Add-sub-choice.C": "cpp",
+        "9_VOWEL.C": "cpp",
+        "10_EVEN.C": "cpp",
+        "11_Multiplication_table.C": "cpp",
+        "12_Divisible_by.C": "cpp",
+        "13_Perfect_check.C": "cpp",
+        "14_Armstrong_check.C": "cpp",
+        "16_Sum_of_digit.C": "cpp",
+        "19_Fibonacci.C": "cpp",
+        "20_Prime_in_range.C": "cpp",
+        "21_Factorial.C": "cpp",
+        "23_Big_low.C": "cpp",
+        "25_Fibonacci_Array.C": "cpp",
+        "27_Matrix_Multi.C": "cpp",
+        "29_String_length.C": "cpp",
+        "30_Lower_to_Upper.C": "cpp",
+        "31_To_Upper.C": "cpp",
+        "32_Reverse_String.C": "cpp",
+        "33_Palindrome_String.C": "cpp",
+        "34_Concatination.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
