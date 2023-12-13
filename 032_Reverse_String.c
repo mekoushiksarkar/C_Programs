@@ -9,7 +9,7 @@ int main()
     char st[50];
     puts("\n Enter string: ");
     gets(st);
-    puts("\n The Reverse string is:");
+    puts("\n The Reverse string is: ");
     puts(strrev(st));
     return 0;
 }
