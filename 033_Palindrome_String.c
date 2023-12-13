@@ -10,7 +10,6 @@ int main()
     int i, j;
     puts("\n Enter the first string: ");
     gets(st1);
-
     i = 0;
     j = strlen(st1) - 1;
     while (j >= 0)
@@ -19,7 +18,6 @@ int main()
         i++;
         j--;
     }
-
     st2[i] = '\0';
     if (strcmp(st1, st2) == 0)
         printf("\n %s is a Palindrome string", st1);
