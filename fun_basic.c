@@ -1,4 +1,4 @@
-// Use of Functions
+/* Use of Functions */
 
 #include<stdio.h>
 
